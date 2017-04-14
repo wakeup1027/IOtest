@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person shool="nanda" location="jianxi">
+    <stud name="student">
+        <name marry="sign">Mr.Li</name>
+        <age>Twenty_one</age>
+    </stud>
+    <stud name="student">
+        <name marry="sign">Miss.Fu</name>
+        <age>Twenty_two</age>
+    </stud>
+</person>
